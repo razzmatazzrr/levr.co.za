@@ -902,11 +902,11 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
     top: 0;
     width: 100%;
     height: 100%;
-    background: -webkit-linear-gradient(left, #eb7225, #898e7f) !important;
-    background: -moz-linear-gradient(left, #eb7225, #898e7f) !important;
-    background: -o-linear-gradient(left, #eb7225, #898e7f) !important;
-    background: -ms-linear-gradient(left, #eb7225, #898e7f) !important;
-    background: linear-gradient(left, #eb7225, #898e7f) !important;
+    background: -webkit-linear-gradient(left, #eb7225, #fffaf0) !important;
+    background: -moz-linear-gradient(left, #eb7225, #fffaf0) !important;
+    background: -o-linear-gradient(left, #eb7225, #fffaf0) !important;
+    background: -ms-linear-gradient(left, #eb7225, #fffaf0) !important;
+    background: linear-gradient(left, #eb7225, #fffaf0) !important;
     opacity: 0;
     -webkit-transition: .2s opacity ease-in-out;
     transition: .2s opacity ease-in-out; }
