@@ -431,15 +431,15 @@ a.mbr-iconfont:hover {
   line-height: 44px;
   text-align: center;
   position: relative;
-  border: 2px solid #c0a375;
-  color: #232323; }
+  border: 2px solid #eb7225;
+  color: #898e7f; }
   .btn-social i {
     top: 0;
     line-height: 44px;
     width: 44px; }
   .btn-social:hover {
     color: #fff;
-    background: #c0a375; }
+    background: #eb7225; }
   .btn-social + .btn {
     margin-left: 0.1rem; }
 
