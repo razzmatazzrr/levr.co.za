@@ -98,16 +98,16 @@
 }
 
 .mbr-gallery-filter li:hover {
-    background-color: #333333;
+    background-color: #eb7225;
     color: #c39f76;
 }
 
 .mbr-gallery-filter li.active {
     color: white;
-    background-color: #333333;
+    background-color: #eb7225;
 }
 
 .mbr-gallery-filter li.active:hover {
     color: white;
-    background-color: #333333;
+    background-color: #eb7225;
 }
